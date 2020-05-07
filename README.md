@@ -1,2 +1,1 @@
-# hello-wold
-primeiro treino
+estou iniciando no aprendizado  de  programação.
